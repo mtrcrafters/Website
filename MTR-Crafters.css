@@ -102,7 +102,7 @@
   font-weight: 700;
   font-size: 0.9375rem;
   margin: 30px auto 60px;
-  padding: 6px 31px 6px 30px;
+  padding: 6px 41px 6px 40px;
 }
 
 @media (max-width: 991px) {
@@ -536,18 +536,12 @@
   font-size: 0.9375rem;
   letter-spacing: 1px;
   box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
-  margin: 30px auto 60px 169px;
+  margin: 30px auto 60px;
   padding: 8px 36px 9px 35px;
 }
 
 .u-section-4 .u-icon-1 {
   color: rgb(88, 101, 242) !important;
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-btn-1 {
-    margin-left: 0;
-  }
 }
 
 @media (max-width: 991px) {
