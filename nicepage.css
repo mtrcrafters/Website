@@ -36280,6 +36280,8 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.u-custom-color-1.active,
         .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"].active,
         li.active > .u-button-style.u-button-style.u-custom-color-1,
+        li.active > .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"]
+        {
             color: #ffffff !important;
             background-color: #0066b9 !important;
         }
